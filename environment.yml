@@ -1,0 +1,7 @@
+name: stats
+dependencies:
+  - numpy
+  - pandas
+  - folium
+  - bokeh
+  - oss
