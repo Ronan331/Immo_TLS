@@ -4,4 +4,4 @@ dependencies:
   - pandas
   - folium
   - bokeh
-  - oss
+  - os
