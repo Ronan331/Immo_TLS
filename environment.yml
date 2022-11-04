@@ -1,4 +1,6 @@
 name: stats
+channels:
+  - pypi
 dependencies:
   - numpy
   - pandas
